@@ -1,7 +1,7 @@
 # Image Processing using Python. (Blurring an image.)
 
 # Steps to use this:-
-1) Any image to be blurred has to be placed in the images folder.
+1) Any image to be blurred has to be placed in the images folder. 2 example images have been put in the images folder already.
 
 2) Further in the terminal we have to proceed to type in the command:- "images/image.jpg".
 
